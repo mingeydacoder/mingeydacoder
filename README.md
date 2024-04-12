@@ -1,4 +1,4 @@
-<center># Cheers mate 🫡</center>
+<h1 style="text-align:center">Cheers mate 🫡</h1>
 0..0
 <div align=center><img width="240", height="240" src="https://github.com/mingeydacoder/mingeydacoder/blob/main/giphy.gif"></div>
 
