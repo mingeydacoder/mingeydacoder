@@ -1,8 +1,8 @@
-<h2 align="center"> Cheers mate! 🫡</h3>
+<h2 align="center"><b><samp> Cheers mate! 🫡</samp></b></h3>
 0..0
 <div align=center><img width="240", height="240" src="https://github.com/mingeydacoder/mingeydacoder/blob/main/giphy.gif"></div>
 
-
+##
 <h3 align="center"><b><samp>Languages</samp></b></h3>
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
