@@ -2,7 +2,7 @@
 0..0
 <div align=center><img width="240", height="240" src="https://github.com/mingeydacoder/mingeydacoder/blob/main/giphy.gif"></div>
 
-##
+
 <h3 align="center"><b><samp>Languages</samp></b></h3>
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
