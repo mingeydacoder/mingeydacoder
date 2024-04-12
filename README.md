@@ -1,5 +1,6 @@
 ### Cheers mate 🫡
 0..0
+![image](https://github.com/mingeydacoder/mingeydacoder/blob/main/giphy.gif)
 
 <!--
 **mingeydacoder/mingeydacoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
