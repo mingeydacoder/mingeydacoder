@@ -1,4 +1,4 @@
-<h2 align="center"><b><samp> Cheers! 🫡</samp></b></h3>
+<h2 align="center"><b><samp> Cheers!</samp></b></h3>
 0..0
 <div align=center><img width="240", height="240" src="https://github.com/mingeydacoder/mingeydacoder/blob/main/giphy.gif"></div>
 
